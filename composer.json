@@ -1,0 +1,32 @@
+{
+    "name": "esc-srl/filter-rule",
+    "type": "library",
+    "description": "Filter Rule Helper",
+    "keywords": ["filter","rule", "compare"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alessandro Bellanda",
+            "email": "a.bellanda@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Esc\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Esc\\Tests\\": "tests"
+        }
+    },
+    "require": {
+        "php": "^7.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.1"
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
