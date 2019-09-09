@@ -1,5 +1,5 @@
 {
-    "name": "esc-srl/filter-rule",
+    "name": "escsrl/filter-rule",
     "type": "library",
     "description": "Filter Rule Helper",
     "keywords": ["filter","rule", "compare"],
